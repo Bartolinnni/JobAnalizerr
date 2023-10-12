@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44466",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\barto_azqkiik\\OneDrive\\Pulpit\\JobAnalizer\\JobAnalizer.WebApp\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}

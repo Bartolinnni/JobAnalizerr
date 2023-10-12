@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\barto_azqkiik\\OneDrive\\Pulpit\\JobAnalizer\\JobAnalizer.WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.JobAnalizer.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.JobAnalizer.WebApp.props",
+      "PackagePath": "build\\JobAnalizer.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.JobAnalizer.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\JobAnalizer.WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.JobAnalizer.WebApp.props",
+      "PackagePath": "buildTransitive\\JobAnalizer.WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
