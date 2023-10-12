@@ -1,0 +1,12 @@
+C:\Users\barto_azqkiik\OneDrive\Pulpit\JobAnalizer\JobAnalizer\bin\Debug\net7.0\JobAnalizer.deps.json
+C:\Users\barto_azqkiik\OneDrive\Pulpit\JobAnalizer\JobAnalizer\bin\Debug\net7.0\JobAnalizer.dll
+C:\Users\barto_azqkiik\OneDrive\Pulpit\JobAnalizer\JobAnalizer\bin\Debug\net7.0\JobAnalizer.pdb
+C:\Users\barto_azqkiik\OneDrive\Pulpit\JobAnalizer\JobAnalizer\obj\Debug\net7.0\JobAnalizer.csproj.AssemblyReference.cache
+C:\Users\barto_azqkiik\OneDrive\Pulpit\JobAnalizer\JobAnalizer\obj\Debug\net7.0\JobAnalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto_azqkiik\OneDrive\Pulpit\JobAnalizer\JobAnalizer\obj\Debug\net7.0\JobAnalizer.AssemblyInfoInputs.cache
+C:\Users\barto_azqkiik\OneDrive\Pulpit\JobAnalizer\JobAnalizer\obj\Debug\net7.0\JobAnalizer.AssemblyInfo.cs
+C:\Users\barto_azqkiik\OneDrive\Pulpit\JobAnalizer\JobAnalizer\obj\Debug\net7.0\JobAnalizer.csproj.CoreCompileInputs.cache
+C:\Users\barto_azqkiik\OneDrive\Pulpit\JobAnalizer\JobAnalizer\obj\Debug\net7.0\JobAnalizer.dll
+C:\Users\barto_azqkiik\OneDrive\Pulpit\JobAnalizer\JobAnalizer\obj\Debug\net7.0\refint\JobAnalizer.dll
+C:\Users\barto_azqkiik\OneDrive\Pulpit\JobAnalizer\JobAnalizer\obj\Debug\net7.0\JobAnalizer.pdb
+C:\Users\barto_azqkiik\OneDrive\Pulpit\JobAnalizer\JobAnalizer\obj\Debug\net7.0\ref\JobAnalizer.dll
