@@ -1,0 +1,31 @@
+.my_container {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.my_container_div {
+  align-items: center;
+  margin: 20px;
+  width: 100%;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.line {
+  width: 270px;
+  border-bottom: 1px solid black;
+  position: absolute;
+}
+
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label::before {
+  background-color: black !important;
+}

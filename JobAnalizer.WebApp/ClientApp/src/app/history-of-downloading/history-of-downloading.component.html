@@ -1,0 +1,27 @@
+<div class="my_container">
+  <div class="my_container_div" class="text-center" style="padding:25px">
+    <div style="display: flex; justify-content: center; align-items: center">
+      <h2>ArbeiteNow</h2>
+    </div>
+    <div class="line"></div>
+    <span *ngFor="let downloaded of sample">
+      
+        <div style="display: flex; justify-content: center; align-items: center; padding :3px;">
+          <table>
+            <tr>
+              <td [routerLink]="['/single-record', downloaded.id]">
+                <strong>{{downloaded.date!.toString().slice(0,16).split('T').join(' ')}}</strong>
+              </td>
+              <td>
+                <button class="btn btn-outline-danger" (click)="delete(downloaded.id)" style="margin: 5px">Delete</button>
+              </td>
+            </tr>
+          </table>
+
+        </div>
+        <div class="line"></div>
+      
+    </span>
+  </div>
+
+  </div>
